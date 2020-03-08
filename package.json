@@ -4,7 +4,8 @@
   "description": "Tailwind CSS for SCSS.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gulp tailwind",
+    "postinstall": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/Siketyan/tailwind-scss/issues"
   },
-  "homepage": "https://github.com/Siketyan/tailwind-scss#readme"
+  "homepage": "https://github.com/Siketyan/tailwind-scss#readme",
+  "dependencies": {
+    "autoprefixer": "^9.7.4",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "tailwindcss": "^1.2.0"
+  }
 }
