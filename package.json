@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-scss",
+  "version": "1.0.0",
+  "description": "Tailwind CSS for SCSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siketyan/tailwind-scss.git"
+  },
+  "keywords": [
+    "scss",
+    "css",
+    "tailwind"
+  ],
+  "author": "Naoki Ikeguchi <root@siketyan.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Siketyan/tailwind-scss/issues"
+  },
+  "homepage": "https://github.com/Siketyan/tailwind-scss#readme"
+}
