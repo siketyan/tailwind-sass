@@ -1,7 +1,7 @@
 {
-  "name": "tailwind-scss",
+  "name": "tailwind-sass",
   "version": "1.0.0",
-  "description": "Tailwind CSS for SCSS.",
+  "description": "Tailwind CSS for Sass.",
   "main": "index.js",
   "scripts": {
     "build": "gulp tailwind",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Siketyan/tailwind-scss.git"
+    "url": "git+https://github.com/Siketyan/tailwind-sass.git"
   },
   "keywords": [
     "scss",
@@ -19,9 +19,9 @@
   "author": "Naoki Ikeguchi <root@siketyan.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Siketyan/tailwind-scss/issues"
+    "url": "https://github.com/Siketyan/tailwind-sass/issues"
   },
-  "homepage": "https://github.com/Siketyan/tailwind-scss#readme",
+  "homepage": "https://github.com/Siketyan/tailwind-sass#readme",
   "dependencies": {
     "autoprefixer": "^9.7.4",
     "gulp": "^4.0.2",
