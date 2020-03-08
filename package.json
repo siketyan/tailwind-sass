@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Siketyan/tailwind-scss/issues"
   },
-  "homepage": "https://github.com/Siketyan/tailwind-scss#readme"
+  "homepage": "https://github.com/Siketyan/tailwind-scss#readme",
+  "dependencies": {
+    "tailwindcss": "^1.2.0"
+  }
 }
